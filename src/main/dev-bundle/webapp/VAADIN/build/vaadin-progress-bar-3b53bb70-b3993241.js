@@ -1,0 +1,1 @@
+import{U as r}from"./indexhtml-9513d5f3.js";import"./theme-d6a0ec78.js";const o={tagName:"vaadin-progress-bar",displayName:"ProgressBar",elements:[{selector:"vaadin-progress-bar::part(bar)",displayName:"Bar",properties:[r.backgroundColor]},{selector:"vaadin-progress-bar::part(value)",displayName:"Value",properties:[r.backgroundColor]}]};export{o as default};

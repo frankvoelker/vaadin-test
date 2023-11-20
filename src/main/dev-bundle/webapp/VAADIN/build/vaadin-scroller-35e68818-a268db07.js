@@ -1,0 +1,1 @@
+import{U as r}from"./indexhtml-9513d5f3.js";import"./theme-d6a0ec78.js";const a={tagName:"vaadin-scroller",displayName:"Scroller",elements:[{selector:"vaadin-scroller",displayName:"Scroller",properties:[r.backgroundColor,r.borderColor,r.borderWidth,r.borderRadius,r.padding]}]};export{a as default};

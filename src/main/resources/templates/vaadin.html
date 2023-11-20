@@ -1,0 +1,4 @@
+<div th:fragment="template(component,id)">
+<script type="text/javascript" th:src="${'/web-component/'+component+'.js'}"></script>
+<th:block th:utext="|<${component} id='${id}' style='${style}'></${component}>|" />
+</div>
